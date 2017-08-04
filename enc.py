@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import pyperclip
 import vigenereCipher
 import sys, getopt
